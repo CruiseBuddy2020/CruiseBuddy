@@ -1,0 +1,10 @@
+
+# Reversing a list using reverse() 
+def Reverse(lst): 
+    lst.reverse() 
+    return lst 
+      
+lst = [RCCL, , TUI, Pulmanture, Azamara, Celebrity, Silversea] 
+print(Reverse(lst)) 
+
+Credit Card = 5105105105105100
